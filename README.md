@@ -1,32 +1,16 @@
-# BusBookingUI-Android
-Check out the new style for App Design aims for Bus Booking Service...😉😀😁😎
+# BusBookingUI
+Bus Booking Apps ini adalah UI yang saya buat menggunakan Android Studio yang terinspirasi dari desain mockup yang berada di website dribble. 😉
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232227.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232255.png" height="600" width="300" hspace="40">
+<img src="https://github.com/kangadit/BusBookingUI/blob/master/Screenshots/20200513_192251.jpg" height="400" width="600" hspace="40">
 
-<img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232300.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232303.png" height="600" width="300" hspace="40">
-
-## Contributing
-
-Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/BusBookingUI-Android/pulls).
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
-but will be thoroughly reviewed .
 
 ### Contact - Let's become friend
-- [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
-- [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
-- [Facebook](https://www.facebook.com/shashanksinghal02)
+- [Twitter](https://twitter.com/kngadt)
+- [Github](https://github.com/kangadit)
+- [Linkedin](https://www.linkedin.com/in/tri-aditya-n-728a0019a)
+- [Instagram](https://www.instagram.com/kangadit._) 
 
-### Like our facebook page
-- [Android UI's Bucket](https://www.facebook.com/androiduisbucket)
-
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-<a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
